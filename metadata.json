@@ -1,0 +1,6 @@
+{
+  "name": "Genesis Race",
+  "description": "A fun Bible trivia game based on Genesis 1-44 for youth groups and church game nights with an animated sailboat race.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
